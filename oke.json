@@ -6,13 +6,5 @@
         "merchantName": "Alfamart",
         "domain": "grivy",
         "eventUrl": "https://grivy.app/c/sat-nivea-bodydeo-925"
-    },
-    {
-         "id": "sat-sprite-17823",
-        "folderName": "ALFAMART SPRITE",
-        "voucherName": "Gratis Sprite",
-        "merchantName": "Alfamart",
-        "domain": "chill_aja_sprite",
-        "eventUrl": "https://chill-aja.sprite.co.id/c/sat-sprite-17823"
     }
 ]
