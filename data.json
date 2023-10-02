@@ -2,7 +2,22 @@
     {
         "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=2HJCNFHNW84YJ0AI12HJDHJF83CD91QI981S26GLD",
         "id": "2HJCNFHNW84YJ0AI12HJDHJF83CD91QI981S26GLD",
-        "folderName": "S26 Precise (Alfamart)",
+        "folderName": "S26 Procal Gold Precise (Alfamart)",
+        "options": [
+            {
+                "answer": "Ya",
+                "product": "S26 900g"
+            },
+            {
+                "answer": "Tidak",
+                "product": "S26 400g"
+            }
+        ]
+    },
+    {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=A82AU8MFJ1JNUDNFU90M13XMBJEUJ2A81JS26PRC",
+        "id": "A82AU8MFJ1JNUDNFU90M13XMBJEUJ2A81JS26PRC",
+        "folderName": "S26 Procal Nutrissentials Precise (Alfamart)",
         "options": [
             {
                 "answer": "Ya",
