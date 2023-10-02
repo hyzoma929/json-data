@@ -15,6 +15,16 @@
     },
     {
         "id": "W9RK3DI82VUS783HRFHJW4IV0WJFGJJV82NTNLCTO",
-        "folderName": "Lactogrow Precise (Alfamart)"
+        "folderName": "Lactogrow Precise (Alfamart)",
+        "options": [
+            {
+                "answer": "Ya",
+                "product": "Lactogrow 735g"
+            },
+            {
+                "answer": "Tidak",
+                "product": "Lactogrow 350g"
+            }
+        ]
     }
 ]
