@@ -28,5 +28,20 @@
                 "product": "Lactogrow 350g"
             }
         ]
+    },
+    {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=RNCSH82NFJCWE98VI9FKO49UCHWGH2PAJFUQDNCW",
+        "id": "RNCSH82NFJCWE98VI9FKO49UCHWGH2PAJFUQDNCW",
+        "folderName": "Dancow Precise (Alfamart)",
+        "options": [
+            {
+                "answer": "Ya",
+                "product": "Dancow 750g"
+            },
+            {
+                "answer": "Tidak",
+                "product": "Dancow 350g"
+            }
+        ]
     }
 ]
