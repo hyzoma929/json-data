@@ -1,7 +1,17 @@
 [
     {
         "id": "2HJCNFHNW84YJ0AI12HJDHJF83CD91QI981S26GLD",
-        "folderName": "S26 Precise (Alfamart)"
+        "folderName": "S26 Precise (Alfamart)",
+        "options": [
+            {
+                "answer": "Ya",
+                "product": "S26 900g"
+            },
+            {
+                 "answer": "Tidak",
+                "product": "S26 400g"
+            }
+        ]
     },
     {
         "id": "W9RK3DI82VUS783HRFHJW4IV0WJFGJJV82NTNLCTO",
