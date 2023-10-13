@@ -21,11 +21,11 @@
         "options": [
             {
                 "answer": "Ya",
-                "product": "11"
+                "product": "900g"
             },
             {
                 "answer": "Tidak",
-                "product": "22"
+                "product": "400g"
             }
         ]
     },
@@ -36,11 +36,11 @@
         "options": [
             {
                 "answer": "Ya",
-                "product": "11"
+                "product": "750g"
             },
             {
                 "answer": "Tidak",
-                "product": "22"
+                "product": "350g"
             }
         ]
     },
@@ -51,11 +51,11 @@
         "options": [
             {
                 "answer": "Ya",
-                "product": "11"
+                "product": "700g"
             },
             {
                 "answer": "Tidak",
-                "product": "22"
+                "product": "400g"
             }
         ]
     }
