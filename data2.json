@@ -2,15 +2,15 @@
    {
         "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=PS3JTF83JRTJVN2J20T8VJ39GI82JTJN2N3UTUJWI38J3LCT5RW",
         "id": "PS3JTF83JRTJVN2J20T8VJ39GI82JTJN2N3UTUJWI38J3LCT5RW",
-        "folderName": "Lactogrow",
+        "folderName": "Lactogrow 3",
         "options": [
             {
                 "answer": "Ya",
-                "product": ""
+                "product": "735g"
             },
             {
                 "answer": "Tidak",
-                "product": ""
+                "product": "350g"
             }
         ]
     },
@@ -21,11 +21,11 @@
         "options": [
             {
                 "answer": "Ya",
-                "product": ""
+                "product": "11"
             },
             {
                 "answer": "Tidak",
-                "product": ""
+                "product": "22"
             }
         ]
     },
@@ -36,11 +36,11 @@
         "options": [
             {
                 "answer": "Ya",
-                "product": ""
+                "product": "11"
             },
             {
                 "answer": "Tidak",
-                "product": ""
+                "product": "22"
             }
         ]
     },
@@ -51,11 +51,11 @@
         "options": [
             {
                 "answer": "Ya",
-                "product": ""
+                "product": "11"
             },
             {
                 "answer": "Tidak",
-                "product": ""
+                "product": "22"
             }
         ]
     }
