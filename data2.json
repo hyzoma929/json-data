@@ -1,15 +1,60 @@
 [
    {
-        "eventUrl": "peer",
-        "id": "",
-        "folderName": "",
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=PS3JTF83JRTJVN2J20T8VJ39GI82JTJN2N3UTUJWI38J3LCT5RW",
+        "id": "PS3JTF83JRTJVN2J20T8VJ39GI82JTJN2N3UTUJWI38J3LCT5RW",
+        "folderName": "Lactogrow",
         "options": [
             {
-                "answer": "",
+                "answer": "Ya",
                 "product": ""
             },
             {
-                "answer": "",
+                "answer": "Tidak",
+                "product": ""
+            }
+        ]
+    },
+    {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=R93HF8DJ39T9VN327GJSO295YJ394UJF8WU34HTUS26GLD",
+        "id": "R93HF8DJ39T9VN327GJSO295YJ394UJF8WU34HTUS26GLD",
+        "folderName": "Procal Gold",
+        "options": [
+            {
+                "answer": "Ya",
+                "product": ""
+            },
+            {
+                "answer": "Tidak",
+                "product": ""
+            }
+        ]
+    },
+    {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=29JFU284FJSJ2BRHVUJ4UJSK2ORMVO02LRKGJ83D4CW",
+        "id": "29JFU284FJSJ2BRHVUJ4UJSK2ORMVO02LRKGJ83D4CW",
+        "folderName": "Dancow",
+        "options": [
+            {
+                "answer": "Ya",
+                "product": ""
+            },
+            {
+                "answer": "Tidak",
+                "product": ""
+            }
+        ]
+    },
+    {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=G784YFE83UFHJD83UJTHNF90KDCH83HRHDUS26PRCL",
+        "id": "G784YFE83UFHJD83UJTHNF90KDCH83HRHDUS26PRCL",
+        "folderName": "Procal Nutri",
+        "options": [
+            {
+                "answer": "Ya",
+                "product": ""
+            },
+            {
+                "answer": "Tidak",
                 "product": ""
             }
         ]
