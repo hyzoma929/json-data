@@ -31,5 +31,16 @@
         "websiteKey": "6LdPZrwkAAAAAHOctQFztprBjSV-06f7uXMO6dPq",
         "grabCaptcha": "kepoah2",
         "claimCaptcha": "kepodeh2"
+    },
+    {
+        "id": "coke-23-100310023",
+        "folderName": "ALFAMIDI COCA COLA",
+        "voucherName": "Gratis COCA COLA PET 250ml",
+        "merchantName": "Alfamidi",
+        "domain": "ayo_coca_cola",
+        "eventUrl": "https://ayo.coca-cola.co.id/c/coke-23-100310023",
+        "websiteKey": "6LdPZrwkAAAAAHOctQFztprBjSV-06f7uXMO6dPq",
+        "grabCaptcha": "kepoah4",
+        "claimCaptcha": "kepodeh4"
     }
 ]
