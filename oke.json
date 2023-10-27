@@ -1,7 +1,7 @@
 [
     {
         "id": "ulvr-sunlight-idm-935",
-        "folderName": "SUNLIGHT INDOMARET",
+        "folderName": "SUNLIGHT JERUK INDOMARET",
         "voucherName": "Potongan 5k",
         "merchantName": "Indomaret",
         "domain": "grivy",
@@ -9,6 +9,17 @@
         "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
         "grabCaptcha": "kepoah1",
         "claimCaptcha": "kepodeh1"
+    },
+    {
+        "id": "ulvr-sunlight-sat-935",
+        "folderName": "SUNLIGHT JERUK ALFAMART",
+        "voucherName": "Potongan 5k",
+        "merchantName": "Alfamart",
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-sat-935",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
+        "grabCaptcha": "kepoah3",
+        "claimCaptcha": "kepodeh3"
     },
     {
         "id": "coke-23-920091847",
