@@ -6,6 +6,7 @@
         "merchantName": "Indomaret",
         "domain": "grivy",
         "eventUrl": "https://grivy.app/c/ulvr-sunlight-sat-935?sscType=copy",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU"
         "grabCaptcha": "kepoah1",
         "claimCaptcha": "kepodeh1"
     },
@@ -16,6 +17,7 @@
         "merchantName": "Alfamart",
         "domain": "ayo_coca_cola",
         "eventUrl": "https://ayo.coca-cola.co.id/c/coke-23-920091847",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU"
         "grabCaptcha": "kepoah2",
         "claimCaptcha": "kepodeh2"
     }
