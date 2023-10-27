@@ -1,11 +1,13 @@
 [
     {
-        "id": "sprite-zero-23",
-        "folderName": "INDOMARET SPRITE",
-        "voucherName": "Gratis SPRITE Zero PET 390ml",
+        "id": "ulvr-sunlight-idm-935",
+        "folderName": "SUNLIGHT INDOMARET",
+        "voucherName": "Potongan 5k",
         "merchantName": "Indomaret",
-        "domain": "chill_aja_sprite",
-        "eventUrl": "https://chill-aja.sprite.co.id/c/sprite-zero-23"
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-sat-935?sscType=copy",
+        "grabCaptcha": "kepoah1",
+        "claimCaptcha": "kepodeh1"
     },
     {
         "id": "coke-23-920091847",
@@ -13,6 +15,8 @@
         "voucherName": "Gratis COCA COLA PET 250ml",
         "merchantName": "Alfamart",
         "domain": "ayo_coca_cola",
-        "eventUrl": "https://ayo.coca-cola.co.id/c/coke-23-920091847"
+        "eventUrl": "https://ayo.coca-cola.co.id/c/coke-23-920091847",
+        "grabCaptcha": "kepoah2",
+        "claimCaptcha": "kepodeh2"
     }
 ]
