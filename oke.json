@@ -1,4 +1,15 @@
-[
+[  
+    {
+        "id": "ulvr-sunlight-sat-915",
+        "folderName": "SUNLIGHT EXTRA ALFAMART",
+        "voucherName": "Sunlight Extra Potongan 5k",
+        "merchantName": "Alfamart",
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-sat-915?sscType=copy",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
+        "grabCaptcha": "kepoah0",
+        "claimCaptcha": "kepodeh0"
+    },
     {
         "id": "ulvr-sunlight-idm-935",
         "folderName": "SUNLIGHT JERUK INDOMARET",
