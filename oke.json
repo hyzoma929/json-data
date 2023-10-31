@@ -1,16 +1,5 @@
 [  
     {
-        "id": "ulvr-sunlight-idm-915",
-        "folderName": "SUNLIGHT EXTRA INDOMARET",
-        "voucherName": "Sunlight Extra Potongan 5k",
-        "merchantName": "Indomaret",
-        "domain": "grivy",
-        "eventUrl": "https://grivy.app/c/ulvr-sunlight-idm-915?sscType=copy",
-        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
-        "grabCaptcha": "kepoah5",
-        "claimCaptcha": "kepodeh5"
-    },
-    {
         "id": "ulvr-sunlight-idm-935",
         "folderName": "SUNLIGHT JERUK INDOMARET",
         "voucherName": "Sunlight Jeruk Potongan 5k",
@@ -22,6 +11,17 @@
         "claimCaptcha": "kepodeh1"
     },
     {
+        "id": "ulvr-sunlight-idm-915",
+        "folderName": "SUNLIGHT EXTRA INDOMARET",
+        "voucherName": "Sunlight Extra Potongan 5k",
+        "merchantName": "Indomaret",
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-idm-915?sscType=copy",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
+        "grabCaptcha": "kepoah5",
+        "claimCaptcha": "kepodeh5"
+    },
+    {
         "id": "ulvr-sunlight-sat-935",
         "folderName": "SUNLIGHT JERUK ALFAMART",
         "voucherName": "Sunlight Jeruk Potongan 5k",
@@ -31,6 +31,28 @@
         "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
         "grabCaptcha": "kepoah3",
         "claimCaptcha": "kepodeh3"
+    },
+    {
+        "id": "ulvr-sunlight-sat-925",
+        "folderName": "SUNLIGHT JERUK ALFAMART",
+        "voucherName": "Sunlight Jeruk Potongan 5k",
+        "merchantName": "Alfamart",
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-sat-925?sscType=copy",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
+        "grabCaptcha": "kepoah66",
+        "claimCaptcha": "kepodeh66"
+    },
+    {
+        "id": "ulvr-sunlight-sat-955",
+        "folderName": "SUNLIGHT JERUK ALFAMART",
+        "voucherName": "Sunlight Jeruk Potongan 5k",
+        "merchantName": "Alfamart",
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-sat-955",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
+        "grabCaptcha": "kepoah99",
+        "claimCaptcha": "kepodeh99"
     },
     {
         "id": "ulvr-sunlight-sat-915",
