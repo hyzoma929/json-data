@@ -11,6 +11,28 @@
         "claimCaptcha": "kepodeh1"
     },
     {
+        "id": "ulvr-sunlight-idm-925",
+        "folderName": "SUNLIGHT JERUK INDOMARET",
+        "voucherName": "Sunlight Jeruk Potongan 5k",
+        "merchantName": "Indomaret",
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-idm-925?sscType=copy",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
+        "grabCaptcha": "grab-ulvr-sunlight-idm-925-1",
+        "claimCaptcha": "claim-ulvr-sunlight-idm-925-1"
+    },
+    {
+        "id": "ulvr-sunlight-idm-955",
+        "folderName": "SUNLIGHT JERUK INDOMARET",
+        "voucherName": "Sunlight Jeruk Potongan 5k",
+        "merchantName": "Indomaret",
+        "domain": "grivy",
+        "eventUrl": "https://grivy.app/c/ulvr-sunlight-idm-955?sscType=copy",
+        "websiteKey": "6LcTcdwkAAAAAH_kWSP1epqBlmsZhgGE-tOkutbU",
+        "grabCaptcha": "grab-ulvr-sunlight-idm-925-2",
+        "claimCaptcha": "claim-ulvr-sunlight-idm-925-2"
+    },
+    {
         "id": "ulvr-sunlight-idm-915",
         "folderName": "SUNLIGHT EXTRA INDOMARET",
         "voucherName": "Sunlight Extra Potongan 5k",
