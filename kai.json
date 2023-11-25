@@ -1,5 +1,12 @@
-{
-    "origin": "TNK",
-    "destination": "BATURAJA",
-    "tripdate": "2023-11-26"
-}
+[
+    {
+        "origin": "TNK",
+        "destination": "BATURAJA",
+        "tripdate": "2023-11-26"
+    },
+    {
+        "origin": "TNK",
+        "destination": "BATURAJA",
+        "tripdate": "2023-11-27"
+    }
+]
