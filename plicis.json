@@ -15,5 +15,22 @@
             "captcha": null,
             "fingerprint": null
         }
+    },
+     {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=fe836868-8052-41a0-af22-495b3728f52e?id=75A136334EC145689A32EC066A6E4629",
+        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher?",
+        "id": "75A136334EC145689A32EC066A6E4629",
+        "folderName": "Minimum 50ribu, Potongan 5ribu Alfamart",
+        "voucherName": "Minimum 50ribu, Potongan 5ribu",
+        "merchantName": "Alfamart",
+        "options": [],
+        "formData": {
+            "pe_link": null,
+            "fb_user_id": "",
+            "id_token": null,
+            "phone": null,
+            "captcha": null,
+            "fingerprint": null
+        }
     }
 ]
