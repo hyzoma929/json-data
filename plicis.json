@@ -23,7 +23,7 @@
      },
      {
         "eventUrl": "https://precise.gli.id/gli-precise/#/re=1cnfm23-hay74h-783nd1-dj3nfn56?id=291918BB96544B34B25D4B82DE97A8CD",
-        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher-2?",
+        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher?",
         "id": "291918BB96544B34B25D4B82DE97A8CD",
         "folderName": "Minimum 50ribu, Potongan 5ribu (31 Dec) Alfamart",
         "voucherName": "Minimum 50ribu, Potongan 5ribu",
@@ -45,7 +45,7 @@
      },
      {
         "eventUrl": "https://precise.gli.id/gli-precise/#/re=1cnfm23-hay74h-783nd1-dj3nfn56?id=EEBB3C9FECB64DC6A076F46F107DCCF8",
-        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher-2?",
+        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher?",
         "id": "EEBB3C9FECB64DC6A076F46F107DCCF8",
         "folderName": "Minimum 50ribu, Potongan 5ribu (31 Dec) Alfamart",
         "voucherName": "Minimum 50ribu, Potongan 5ribu",
