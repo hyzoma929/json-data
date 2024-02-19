@@ -14,11 +14,11 @@
             "phone": null,
             "captcha": null,
             "fingerprint": null,
-            answer_1: 'Ya',
-            answer_2: null,
-            answer_3: null,
-            answer_4: null,
-            answer_5: null
+            "answer_1": 'Ya',
+            "answer_2": null,
+            "answer_3": null,
+            "answer_4": null,
+            "answer_5": null
         }
      }
 ]
