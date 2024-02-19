@@ -1,9 +1,9 @@
 [
      {
-        "eventUrl": "https://precise.gli.id/gli-precise/#/re=1cnfm23-hay74h-783nd1-dj3nfn56?id=291918BB96544B34B25D4B82DE97A8CD",
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=fe836868-8052-41a0-af22-495b3728f52e?id=E0D4E59386D24F58B20A6E128BFB0DDD",
         "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher?",
-        "id": "291918BB96544B34B25D4B82DE97A8CD",
-        "folderName": "Minimum 50ribu Potongan 5ribu (31 Dec) Alfamart",
+        "id": "E0D4E59386D24F58B20A6E128BFB0DDD",
+        "folderName": "Minimum 50ribu Potongan 5ribu (31 Dec) Alfagift",
         "voucherName": "Minimum 50ribu Potongan 5ribu",
         "merchantName": "Alfamart",
         "options": [],
@@ -14,11 +14,11 @@
             "phone": null,
             "captcha": null,
             "fingerprint": null,
-            "answer_1": "Ya",
-            "answer_2": null,
-            "answer_3": "2001-12-12",
-            "answer_4": null,
-            "answer_5": null
+            answer_1: 'Ya',
+            answer_2: null,
+            answer_3: null,
+            answer_4: null,
+            answer_5: null
         }
      }
 ]
