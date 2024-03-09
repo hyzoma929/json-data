@@ -1,0 +1,38 @@
+[
+    {
+        "folderName": "Freiss Pouch Squash Jeruk Indomaret",
+        "voucherName": "Freiss Pouch Squash Jeruk Buy 1 Get 1",
+        "eventUrl": "https://campaign.letsbuyasia.id/freiss/indomaret/product/19",
+        "partner": 1
+    },
+    {
+        "folderName": "Freiss Pouch Cocopandan Indomaret",
+        "voucherName": "Freiss Pouch Cocopandan Buy 1 Get 1",
+        "eventUrl": "https://campaign.letsbuyasia.id/freiss/indomaret/product/14",
+        "partner": 1
+    },
+    {
+        "folderName": "Freiss Pouch Squash Jeruk Alfamidi",
+        "voucherName": "Freiss Pouch Squash Jeruk Buy 1 Get 1",
+        "eventUrl": "https://campaign.letsbuyasia.id/freiss/indomaret/product/19",
+        "partner": 7
+    },
+    {
+        "folderName": "Freiss Pouch Cocopandan Alfamidi",
+        "voucherName": "Freiss Pouch Cocopandan Buy 1 Get 1",
+        "eventUrl": "https://campaign.letsbuyasia.id/freiss/indomaret/product/14",
+        "partner": 7
+    },
+    {
+        "folderName": "So Nice Premium Alfamart",
+        "voucherName": "So Nice Premium Buy 1 Get 1",
+        "eventUrl": "https://campaign.letsbuyasia.id/sonice/premium/product/27",
+        "partner": 2
+    },
+    {
+        "folderName": "So Nice Premium Indomaret",
+        "voucherName": "So Nice Premium Buy 1 Get 1",
+        "eventUrl": "https://campaign.letsbuyasia.id/sonice/premium/product/27",
+        "partner": 1
+    }
+]
