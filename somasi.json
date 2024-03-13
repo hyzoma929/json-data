@@ -40,19 +40,5 @@
         "eventUrl": "https://campaign.letsbuyasia.id/sonice/premium/product/27",
         "partner": "1",
         "store": "Alfamart"
-    },
-    {
-        "folderName": "Pejoy Chocolate Alfamart",
-        "voucherName": "Pejoy Chocolate Hanya Rp 5.000",
-        "eventUrl": "https://campaign.letsbuyasia.id/glico-indonesia/enjoywithpejoy/product/2",
-        "partner": "2",
-        "store": "Alfamart"
-    },
-    {
-        "folderName": "Pejoy Pejoy Cookies and Cream Alfamart",
-        "voucherName": "Pejoy Pejoy Cookies and Cream Hanya Rp 5.000",
-        "eventUrl": "https://campaign.letsbuyasia.id/glico-indonesia/enjoywithpejoy/product/3",
-        "partner": "2",
-        "store": "Alfamart"
     }
 ]
