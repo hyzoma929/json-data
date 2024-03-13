@@ -40,5 +40,12 @@
         "eventUrl": "https://campaign.letsbuyasia.id/sonice/premium/product/27",
         "partner": "1",
         "store": "Alfamart"
+    },
+    {
+        "folderName": "GELI",
+        "voucherName": "GELI",
+        "eventUrl": "https://campaign.letsbuyasia.id/glico-indonesia/enjoywithpejoy/product/3",
+        "partner": "1",
+        "store": "Alfamart"
     }
 ]
