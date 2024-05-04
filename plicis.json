@@ -10,7 +10,7 @@
         "formData": {
             "pe_link": null,
             "name": null,
-            "email": null
+            "email": null,
             "phone": null,
             "captcha": null,
             "fingerprint": null,
