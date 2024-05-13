@@ -1,0 +1,41 @@
+[
+    {
+        "id": 110651,
+        "name": "1x Kesempatan Dapat Mobil",
+        "icon": "id-11134001-7r98r-lv5pio5lzy48c9",
+        "item_type": 7,
+        "cost": 10,
+        "redeem_status": 0,
+        "redeem_limit": 0,
+        "redeemed_times": 0,
+        "coins_redeem": 0,
+        "valid_duration": {
+            "value_in_secs": 0,
+            "type": 0
+        },
+        "raffle_item_info": {
+            "raffle_id": 103330,
+            "cycle_end_time": 1717682399
+        },
+        "display_end_time": 1717678740,
+        "custom_settings": "{\"item_assets\": {\"text_title\": \"1x Kesempatan Dapat Mobil\", \"text_popup_subtitle\": \"Selamat! Kamu berkesempatan mendapatkan Toyota Agya di tanggal 6 Juni\", \"image_icon\": \"id-11134001-7r98r-lv5pio5lzy48c9\", \"switch_tc\": false, \"text_popup_title\": \"Berhasil Diklaim\"}, \"ctas\": {\"text\": \"Cek Tiket Saya\", \"type\": \"c_cta_raffle_home_page\"}}"
+    },
+    {
+        "id": 110701,
+        "name": "100 Koin",
+        "icon": "id-11134001-7r98z-lv5wnp3pfing55",
+        "item_type": 4,
+        "points_to_redeem": 100,
+        "redeem_status": 0,
+        "redeem_limit": 0,
+        "redeemed_times": 0,
+        "coins_redeem_description": "100 point(s) = 100 coin(s)",
+        "coins_redeem": 10000,
+        "valid_duration": {
+            "value_in_secs": 0,
+            "type": 0
+        },
+        "display_end_time": 1717693140,
+        "custom_settings": "{\"item_assets\": {\"text_title\": \"100 Koin\", \"text_popup_subtitle\": \"Selamat! Kamu dapat 100 Koin dari 6 Miliar Hadiah Gratis\", \"text_popup_icon\": \"id-50009109-dda7d024733955f1b5e5776e042a3371\", \"text_desc\": \"100 point(s) = 100 coin(s)\", \"image_icon\": \"id-11134001-7r98z-lv5wnp3pfing55\", \"text_popup_title\": \"Berhasil Diklaim\"}, \"ctas\": {\"url\": \"https://shopee.co.id/koin-shopee/\", \"text\": \"CEK SEKARANG\", \"type\": \"default_cta_url\"}}"
+    }
+]
