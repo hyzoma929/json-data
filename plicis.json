@@ -9,7 +9,7 @@
         "options": [],
         "formData": {
             "pe_link": null,
-            "fb_user_id": null,
+            "fb_user_id": "",
             "id_token": null,
             "phone": null,
             "captcha": null,
