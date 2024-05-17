@@ -9,8 +9,8 @@
         "options": [],
         "formData": {
             "pe_link": null,
-            "name": null,
-            "email": null,
+            "fb_user_id": null,
+            "id_token": null,
             "phone": null,
             "captcha": null,
             "fingerprint": null,
