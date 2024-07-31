@@ -37,13 +37,13 @@
             "phone": null,
             "captcha": null,
             "fingerprint": null,
-            "answer_1": 'Ya',
+            "answer_1": "Ya",
             "answer_2": null,
             "answer_3": null,
             "answer_4": null,
             "answer_5": null,
             "answer_array": [
-    { "pq_id": 49, "pq_rank": 1, "answer": '2023-07-07' },
+    { "pq_id": 49, "pq_rank": 1, "answer": "2023-07-07" },
     { "pq_id": 54, "pq_rank": 2, "answer": "Ya" },
     { "pq_id": 51, "pq_rank": 3, "answer": "Cari di Internet" },
     { "pq_id": 52, "pq_rank": 4, "answer": "Ya" }
