@@ -1,49 +1,5 @@
 [
     {
-        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=12CC9DE836074418B2C3D918FC5E5834",
-        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher-2?",
-        "id": "12CC9DE836074418B2C3D918FC5E5834",
-        "folderName": "Tebus Gratis Chil go 1Plus atau 3Plus Madu 270G Alfamart",
-        "voucherName": "Tebus Gratis Chil go 1Plus atau 3Plus Madu 270G",
-        "merchantName": "Alfamart",
-        "options": [],
-        "formData": {
-            "pe_link": null,
-            "fb_user_id": "",
-            "id_token": null,
-            "phone": null,
-            "captcha": null,
-            "fingerprint": null,
-            "answer_1": "Ya",
-            "answer_2": null,
-            "answer_3": null,
-            "answer_4": null,
-            "answer_5": null,
-            "answer_array": [
-                {
-                    "pq_id": 49,
-                    "pq_rank": 1,
-                    "answer": "2023-07-07"
-                },
-                {
-                    "pq_id": 54,
-                    "pq_rank": 2,
-                    "answer": "Ya"
-                },
-                {
-                    "pq_id": 51,
-                    "pq_rank": 3,
-                    "answer": "Cari di Internet"
-                },
-                {
-                    "pq_id": 52,
-                    "pq_rank": 4,
-                    "answer": "Ya"
-                }
-            ]
-        }
-    },
-    {
         "eventUrl": "https://precise.gli.id/gli-precise/#/re=1cnfm23-hay74h-783nd1-dj3nfn56?id=95ED58B8686C4CBE84258FD7209A0821",
         "apiUrl": "https://precise.gli.id:5007/precise-proxy/send-confirmation-email?",
         "id": "95ED58B8686C4CBE84258FD7209A0821",
