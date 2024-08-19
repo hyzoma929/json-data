@@ -1,28 +1,5 @@
 [
-     {
-        "eventUrl": "https://precise.gli.id/gli-precise/#/re=fe836868-8052-41a0-af22-495b3728f52e?id=7CAC07214BC94EB2B690C967D09FE893",
-        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher?",
-        "id": "7CAC07214BC94EB2B690C967D09FE893",
-        "folderName": "Minimum 50ribu Potongan 5ribu Alfamart",
-        "voucherName": "Minimum 50ribu Potongan 5ribu",
-        "merchantName": "Alfamart",
-        "options": [],
-        "formData": {
-            "pe_link": null,
-            "fb_user_id": "",
-            "id_token": null,
-            "phone": null,
-            "captcha": null,
-            "fingerprint": null,
-            "answer_1": null,
-            "answer_2": null,
-            "answer_3": null,
-            "answer_4": null,
-            "answer_5": null,
-            "answer_array": [ { "pq_id": 17, "answer": "" } ]
-        }
-     },
-     {
+    {
         "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=12CC9DE836074418B2C3D918FC5E5834",
         "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher-2?",
         "id": "12CC9DE836074418B2C3D918FC5E5834",
@@ -43,11 +20,91 @@
             "answer_4": null,
             "answer_5": null,
             "answer_array": [
-    { "pq_id": 49, "pq_rank": 1, "answer": "2023-07-07" },
-    { "pq_id": 54, "pq_rank": 2, "answer": "Ya" },
-    { "pq_id": 51, "pq_rank": 3, "answer": "Cari di Internet" },
-    { "pq_id": 52, "pq_rank": 4, "answer": "Ya" }
-  ]
+                {
+                    "pq_id": 49,
+                    "pq_rank": 1,
+                    "answer": "2023-07-07"
+                },
+                {
+                    "pq_id": 54,
+                    "pq_rank": 2,
+                    "answer": "Ya"
+                },
+                {
+                    "pq_id": 51,
+                    "pq_rank": 3,
+                    "answer": "Cari di Internet"
+                },
+                {
+                    "pq_id": 52,
+                    "pq_rank": 4,
+                    "answer": "Ya"
+                }
+            ]
         }
-     }
+    },
+    {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=1cnfm23-hay74h-783nd1-dj3nfn56?id=95ED58B8686C4CBE84258FD7209A0821",
+        "apiUrl": "https://precise.gli.id:5007/precise-proxy/send-confirmation-email?",
+        "id": "95ED58B8686C4CBE84258FD7209A0821",
+        "folderName": "Tebus Morigro Gromax Vanila 200G Alfamart",
+        "voucherName": "Tebus Morigro Gromax Vanila 200G",
+        "merchantName": "Alfamart",
+        "options": [],
+        "formData": {
+            "pe_link": null,
+            "fb_user_id": "",
+            "id_token": null,
+            "phone": null,
+            "captcha": null,
+            "fingerprint": null,
+            "answer_1": null,
+            "answer_2": null,
+            "answer_3": null,
+            "answer_4": null,
+            "answer_5": null,
+            "answer_array": [
+                {
+                    "pq_id": 135,
+                    "pq_rank": 1,
+                    "answer": "2021-08-13"
+                },
+                {
+                    "pq_id": 136,
+                    "pq_rank": 2,
+                    "answer": "Tidak"
+                },
+                {
+                    "pq_id": 137,
+                    "pq_rank": 3,
+                    "answer": "Lainnya (isi sendiri)"
+                },
+                {
+                    "pq_id": 138,
+                    "pq_rank": 4,
+                    "answer": "Morigro Gromax"
+                },
+                {
+                    "pq_id": 139,
+                    "pq_rank": 5,
+                    "answer": "2021-08-05"
+                },
+                {
+                    "pq_id": 140,
+                    "pq_rank": 6,
+                    "answer": "Menambah tinggi badan anak"
+                },
+                {
+                    "pq_id": 156,
+                    "pq_rank": 7,
+                    "answer": "Menambah berat badan"
+                },
+                {
+                    "pq_id": 141,
+                    "pq_rank": 8,
+                    "answer": "Tidak"
+                }
+            ]
+        }
+    }
 ]
