@@ -62,5 +62,49 @@
                 }
             ]
         }
+    },
+    {
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=11DD64DBFE3447FFB0651F43049C65D6",
+        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher-2?",
+        "id": "11DD64DBFE3447FFB0651F43049C65D6",
+        "folderName": "Gratis Chil Go 3Plus Madu 270G Alfamart",
+        "voucherName": "Gratis Chil Go 3Plus Madu 270G",
+        "merchantName": "Alfamart",
+        "options": [],
+        "formData": {
+            "pe_link": null,
+            "fb_user_id": "",
+            "id_token": null,
+            "phone": null,
+            "captcha": null,
+            "fingerprint": null,
+            "answer_1": "Ya",
+            "answer_2": null,
+            "answer_3": null,
+            "answer_4": null,
+            "answer_5": null,
+            "answer_array": [
+                {
+                    "pq_id": 170,
+                    "pq_rank": 1,
+                    "answer": "2021-08-10"
+                },
+                {
+                    "pq_id": 171,
+                    "pq_rank": 2,
+                    "answer": "Ya"
+                },
+                {
+                    "pq_id": 172,
+                    "pq_rank": 3,
+                    "answer": "Cari di Internet"
+                },
+                {
+                    "pq_id": 173,
+                    "pq_rank": 4,
+                    "answer": "Ya"
+                }
+            ]
+        }
     }
 ]
