@@ -65,9 +65,9 @@
         }
     },
     {
-        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=11DD64DBFE3447FFB0651F43049C65D6",
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=C650A6D90FEA44D7A4B7BACAEEE997B7",
         "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher-2?",
-        "id": "11DD64DBFE3447FFB0651F43049C65D6",
+        "id": "C650A6D90FEA44D7A4B7BACAEEE997B7",
         "folderName": "Gratis Chil Go 3Plus Madu 270G Alfamart",
         "voucherName": "Gratis Chil Go 3Plus Madu 270G",
         "merchantName": "Alfamart",
@@ -84,6 +84,7 @@
             "answer_3": null,
             "answer_4": null,
             "answer_5": null,
+            "phone_otp": null,
             "answer_array": [
                 {
                     "pq_id": 170,
