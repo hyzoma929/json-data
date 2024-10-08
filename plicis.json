@@ -1,10 +1,10 @@
 [
     {
-        "eventUrl": "https://precise.gli.id/gli-precise/#/re=fe836868-8052-41a0-af22-495b3728f52e?id=989E55C6365040E79E66446DA2ED7A50",
+        "eventUrl": "https://precise.gli.id/gli-precise/#/re=fe836868-8052-41a0-af22-495b3728f52e?id=816DAFCE8D7F4FAA92A3DA82C427A3AD",
         "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher?",
-        "id": "989E55C6365040E79E66446DA2ED7A50",
-        "folderName": "Tebus Gratis Morigro Gromax Vanila 200G Alfamart",
-        "voucherName": "Tebus Gratis Morigro Gromax Vanila 200G",
+        "id": "816DAFCE8D7F4FAA92A3DA82C427A3AD",
+        "folderName": "Morinaga Chil Kid Gold Madu Alfamart",
+        "voucherName": "Tebus Gratis Morinaga Chil Kid Gold Madu 200G",
         "merchantName": "Alfamart",
         "options": [],
         "formData": {
@@ -22,89 +22,24 @@
             "phone_otp": null,
             "answer_array": [
                 {
-                    "pq_id": 135,
+                    "pq_id": 228,
                     "pq_rank": 1,
-                    "answer": "2021-12-12"
+                    "answer": "2022-12-15"
                 },
                 {
-                    "pq_id": 136,
-                    "pq_rank": 2,
-                    "answer": "Tidak"
-                },
-                {
-                    "pq_id": 137,
-                    "pq_rank": 3,
-                    "answer": "Lainnya (isi sendiri)"
-                },
-                {
-                    "pq_id": 138,
-                    "pq_rank": 4,
-                    "answer": "Nutribaby"
-                },
-                {
-                    "pq_id": 139,
-                    "pq_rank": 5,
-                    "answer": "2021-02-25"
-                },
-                {
-                    "pq_id": 140,
-                    "pq_rank": 6,
-                    "answer": "Menambah tinggi badan anak"
-                },
-                {
-                    "pq_id": 156,
-                    "pq_rank": 7,
-                    "answer": "Kuat dan sehat"
-                },
-                {
-                    "pq_id": 141,
-                    "pq_rank": 8,
-                    "answer": "Tidak"
-                }
-            ]
-        }
-    },
-    {
-        "eventUrl": "https://precise.gli.id/gli-precise/#/re=kq4782bhd0-2jfu2jqa-c83hf72h-92jejs72?id=C650A6D90FEA44D7A4B7BACAEEE997B7",
-        "apiUrl": "https://precise.gli.id:5007/precise-proxy/get-voucher-2?",
-        "id": "C650A6D90FEA44D7A4B7BACAEEE997B7",
-        "folderName": "Gratis Chil Go 3Plus Madu 270G Alfamart",
-        "voucherName": "Gratis Chil Go 3Plus Madu 270G",
-        "merchantName": "Alfamart",
-        "options": [],
-        "formData": {
-            "pe_link": null,
-            "fb_user_id": "",
-            "id_token": null,
-            "phone": null,
-            "captcha": null,
-            "fingerprint": null,
-            "answer_1": "Ya",
-            "answer_2": null,
-            "answer_3": null,
-            "answer_4": null,
-            "answer_5": null,
-            "phone_otp": null,
-            "answer_array": [
-                {
-                    "pq_id": 170,
-                    "pq_rank": 1,
-                    "answer": "2021-08-10"
-                },
-                {
-                    "pq_id": 171,
+                    "pq_id": 229,
                     "pq_rank": 2,
                     "answer": "Ya"
                 },
                 {
-                    "pq_id": 172,
+                    "pq_id": 230,
                     "pq_rank": 3,
-                    "answer": "Cari di Internet"
+                    "answer": "2023-12-15"
                 },
                 {
-                    "pq_id": 173,
+                    "pq_id": 231,
                     "pq_rank": 4,
-                    "answer": "Ya"
+                    "answer": "Facebook"
                 }
             ]
         }
