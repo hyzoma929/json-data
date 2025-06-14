@@ -1,9 +1,9 @@
 [
-    {
-                "title": "Coca-Cola Promo Reward",
-                "description": "Special McDonald's x Coca-Cola Offer",
-                "image": "https://raw.githubusercontent.com/hyzoma929/json-data/main/cola%20x%20mcd.jpg",
-                "offer_id": "242154",
-                "loyalty_id": "4736"
-            },
-        ]
+  {
+    "title": "Coca-Cola Promo Reward",
+    "description": "Special McDonald's x Coca-Cola Offer",
+    "image": "https://raw.githubusercontent.com/hyzoma929/json-data/main/cola%20x%20mcd.jpg",
+    "offer_id": "242154",
+    "loyalty_id": "4736"
+  }
+]
